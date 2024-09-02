@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPractice", "CPractice.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq", "..\linq\linq.csproj", "{D1E3B691-8671-425B-8A20-CB782CD9C16D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_practice_day2", "..\C_practice_day2\C_practice_day2.csproj", "{425BE401-07B4-4D40-86BA-A375FE4AD74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "..\Inheritance\Inheritance.csproj", "{11B59498-CFDC-4D61-9A5E-A5DB4CA7073F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D1E3B691-8671-425B-8A20-CB782CD9C16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E3B691-8671-425B-8A20-CB782CD9C16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E3B691-8671-425B-8A20-CB782CD9C16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425BE401-07B4-4D40-86BA-A375FE4AD74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425BE401-07B4-4D40-86BA-A375FE4AD74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425BE401-07B4-4D40-86BA-A375FE4AD74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425BE401-07B4-4D40-86BA-A375FE4AD74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B59498-CFDC-4D61-9A5E-A5DB4CA7073F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B59498-CFDC-4D61-9A5E-A5DB4CA7073F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B59498-CFDC-4D61-9A5E-A5DB4CA7073F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B59498-CFDC-4D61-9A5E-A5DB4CA7073F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
